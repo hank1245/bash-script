@@ -93,7 +93,7 @@ NAME="HAK"
 # esac
 
 # SIMPLE FOR LOOP
-# NAMES="Brad Kevin Alice Mark"
+# NAMES="HANK Kevin Alice Mark"
 # for NAME in $NAMES
 #   do
 #     echo "Hello $NAME"
@@ -127,7 +127,7 @@ NAME="HAK"
 #   echo "Hello, I am $1 and I am $2"
 # }
 
-# greet "Brad" "36"
+# greet "HANK" "36"
 
 # CREATE FOLDER AND WRITE TO A FILE
 # mkdir hello
