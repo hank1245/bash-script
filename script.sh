@@ -115,6 +115,7 @@ NAME="HAK"
 #     echo "$LINE: $CURRENT_LINE"
 #     ((LINE++))
 # done < "./new-1.txt"
+#less than. 
 
 # FUNCTION
 # function sayHello() {
@@ -127,10 +128,10 @@ NAME="HAK"
 #   echo "Hello, I am $1 and I am $2"
 # }
 
-# greet "HANK" "36"
+# greet "HANK" "22"
 
 # CREATE FOLDER AND WRITE TO A FILE
-# mkdir hello
-# touch "hello/world.txt"
-# echo "Hello World" >> "hello/world.txt"
-# echo "Created hello/world.txt"
+mkdir hello
+touch "hello/world.txt"
+echo "Hello World" >> "hello/world.txt"
+echo "Created hello/world.txt"
